@@ -1,4 +1,4 @@
-# Just Tech News
+# Photo Portfolio
 
 ## Purpose
 A React application portfolio for a photographer. 
